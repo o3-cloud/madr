@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [unreleased]
 
+### Added
+
+- Added CLAUDE.md for AI coding agent support, providing project-specific guidance and architectural context.
+
 ### Changed
 
 - Changed wording in "Confirmation" section. [#162](https://github.com/adr/madr/pull/162)

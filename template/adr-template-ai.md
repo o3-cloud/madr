@@ -113,6 +113,29 @@ See [ADR-0019](https://adr.github.io/madr/decisions/0019-add-claude-md-for-agent
 * … <!-- numbers of tests can vary -->
 
 <!-- This is an optional element. Feel free to remove. -->
+## Next Steps
+
+{Concrete, actionable steps to begin implementing this decision. These help bridge the gap between decision and implementation.}
+
+### Immediate Actions
+
+* {Action 1: What should happen first}
+* {Action 2: What should happen next}
+* … <!-- ordered list of immediate actions -->
+
+### Implementation Sequence
+
+1. {Step 1: First major implementation milestone}
+2. {Step 2: Second major implementation milestone}
+3. … <!-- ordered sequence of implementation steps -->
+
+### Ownership
+
+* Primary implementer: {Who will lead implementation}
+* Supporting roles: {Who else needs to be involved}
+* Stakeholders to notify: {Who should be informed when implementation begins}
+
+<!-- This is an optional element. Feel free to remove. -->
 ## Dependencies
 
 {Related ADRs, system components, or external factors that must be considered during implementation.}
@@ -121,15 +144,6 @@ See [ADR-0019](https://adr.github.io/madr/decisions/0019-add-claude-md-for-agent
 * Component/Module: {System components affected by this decision}
 * External dependencies: {Libraries, APIs, or services required}
 * … <!-- numbers of dependencies can vary -->
-
-<!-- This is an optional element. Feel free to remove. -->
-## Timeline
-
-{When this ADR should be revisited or reviewed.}
-
-* Implementation deadline: {YYYY-MM-DD}
-* Review date: {YYYY-MM-DD when this decision should be reassessed}
-* Triggers for revision: {Events or conditions that should trigger re-evaluation}
 
 <!-- This is an optional element. Feel free to remove. -->
 ## Risk Assessment

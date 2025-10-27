@@ -120,6 +120,8 @@ The project's own ADRs (in `docs/decisions/`) document important design choices:
 - **0013**: Use YAML front matter for metadata
 - **0014**: Allow neutral arguments in pros/cons
 - **0019**: Add CLAUDE.md for better agent coding support
+- **0020**: Remove Timeline section from AI template
+- **0021**: Add Next Steps section to AI template
 
 ## Release Process
 
@@ -158,8 +160,8 @@ When using ADRs to guide AI development, consider extending the standard MADR te
 | **AI Guidance Level** | Defines how much freedom the AI has: strict (follow exact specifications), flexible (interpret intent with some creativity), or exploratory (research and propose alternatives) |
 | **AI Tool Preferences** | Which AI tools/models to use and their parameters (e.g., "Use Claude Code for implementation, GitHub Copilot for completion") |
 | **Test Expectations** | Specific tests that validate alignment with the ADR's intent (TDD approach) |
+| **Next Steps** | Concrete, actionable steps to begin implementation including immediate actions, implementation sequence, and ownership |
 | **Dependencies** | Related ADRs or system components that must be considered |
-| **Timeline** | When this ADR should be revisited or reviewed |
 | **Risk Assessment** | Technical and business risks associated with this decision |
 | **Human Review** | Whether human approval is required before implementation |
 | **Feedback Log** | Notes from AI agents or team members about implementation results |

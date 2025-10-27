@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nAdd ADR-Driven AI Development Framework to CLAUDE.md\n\nDocuments the extended framework for combining ADRs with AI-assisted development and TDD. Includes core principles, extended template sections for AI agents, development workflow, and benefits. Also includes the ADR documenting this approach (0019).\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git commit:*)",
+      "Skill(adr-review)",
+      "Bash(cat:*)",
+      "Bash(git check-ignore:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
